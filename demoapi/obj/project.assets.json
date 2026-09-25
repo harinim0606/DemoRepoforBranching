@@ -83,24 +83,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rsnav\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Hariharan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsnav\\Desktop\\DemoApi\\demoapi\\demoapi.csproj",
+      "projectUniqueName": "C:\\Users\\Hariharan\\OneDrive\\ドキュメント\\Ramco\\github-class\\DemoRepoforBranching\\demoapi\\demoapi.csproj",
       "projectName": "demoapi",
-      "projectPath": "C:\\Users\\rsnav\\Desktop\\DemoApi\\demoapi\\demoapi.csproj",
-      "packagesPath": "C:\\Users\\rsnav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsnav\\Desktop\\DemoApi\\demoapi\\obj\\",
+      "projectPath": "C:\\Users\\Hariharan\\OneDrive\\ドキュメント\\Ramco\\github-class\\DemoRepoforBranching\\demoapi\\demoapi.csproj",
+      "packagesPath": "C:\\Users\\Hariharan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hariharan\\OneDrive\\ドキュメント\\Ramco\\github-class\\DemoRepoforBranching\\demoapi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rsnav\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Hariharan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
